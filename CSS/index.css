@@ -1,0 +1,293 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #d3174d;
+}
+/* ------------------- CSS Header --------------------- */
+header{
+    height: 100px;
+    width: 100%;
+    background-color: aqua;
+}
+header img{
+    width: 40%;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------- CSS Section-1= Nav_bar --------------------- */
+.nav_bar{
+    height: 50px;
+    width: 100%;
+    border: 1px solid grey;
+    background-color: rgb(149, 155, 155);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------- CSS Section-2= Search_bar --------------------- */
+.Search_bar{
+    height: 150px;
+    width: 100%;
+    border: 1px solid rgb(194, 137, 137);
+    background-color: rgb(3, 41, 41);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------- CSS Section-3= Offer --------------------- */
+.Offer{
+    height: 400px;
+    width: 100%;
+    border: 1px solid rgb(218, 117, 209);
+    /* background-color: rgb(176, 228, 141); */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------- CSS Section-4= Adware --------------------- */
+.Adware{
+    height: 600px;
+    width: 100%;
+    border: 1px solid rgb(209, 107, 107);
+    background-color: rgb(235, 146, 14);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------- CSS Section-5= Email --------------------- */
+.Email{
+    height: 200px;
+    width: 100%;
+    border: 1px solid rgb(204, 75, 230);
+    background-color: rgb(241, 240, 240);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------- CSS Section-6= Countries --------------------- */
+.Countries{
+    height: 400px;
+    width: 100%;
+    border: 1px solid rgba(161, 84, 84, 0);
+    background-color: rgb(214, 165, 233);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------- CSS Footer --------------------- */
+footer{
+    height: 1200px;
+    width: 100%;
+    border: 1px solid whitesmoke;
+    background-color: grey;
+}
