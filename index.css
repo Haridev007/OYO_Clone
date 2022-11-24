@@ -1,0 +1,337 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #d3174d;
+}
+/* ------------------- CSS Header --------------------- */
+header{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(237, 241, 241);
+}
+.header_main_div{
+    display: flex;
+}
+.logo_div{
+    height: 100%;
+    width: 25%;
+    /* border: 1px solid black; */
+    color: #de273c;
+    margin-left: 10px;
+}
+.header_right{
+    height: 100%;
+    width: 75%;
+    /* border: 1px solid red; */
+    margin-right: 0;
+}
+.header_right ul{
+    display: flex;
+    margin-left: 40%;
+}
+.header_right ul li{
+    list-style: none;
+    line-height: 1px;
+    padding: 2.5px;
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    position: inherit;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------- CSS Section-1= Nav_bar --------------------- */
+.nav_bar{
+    height: 50px;
+    width: 100%;
+    border: 1px solid grey;
+    background-color: #e9e9ed;
+}
+.cities{
+    display: flex;
+    height: 100%;
+}
+.cities div{
+    /* border: 0.5px solid grey; */
+    height: 100%;
+    width: 100px;
+    margin: 0px;
+    margin-left: 4%;
+    margin-right: 25px;
+}
+.cities div select{
+    height: 100%;
+    border: 100%;
+    width: 100%;
+    border: none;
+    color: rgb(58, 56, 56);
+    font: 1em solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------- CSS Section-2= Search_bar --------------------- */
+.Search_bar{
+    height: 150px;
+    width: 100%;
+    border: 1px solid rgb(194, 137, 137);
+    background-color: rgb(3, 41, 41);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------- CSS Section-3= Offer --------------------- */
+.Offer{
+    height: 400px;
+    width: 100%;
+    border: 1px solid rgb(218, 117, 209);
+    /* background-color: rgb(176, 228, 141); */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------- CSS Section-4= Adware --------------------- */
+.Adware{
+    height: 600px;
+    width: 100%;
+    border: 1px solid rgb(209, 107, 107);
+    background-color: rgb(235, 146, 14);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------- CSS Section-5= Email --------------------- */
+.Email{
+    height: 200px;
+    width: 100%;
+    border: 1px solid rgb(204, 75, 230);
+    background-color: rgb(241, 240, 240);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------- CSS Section-6= Countries --------------------- */
+.Countries{
+    height: 400px;
+    width: 100%;
+    border: 1px solid rgba(161, 84, 84, 0);
+    background-color: rgb(214, 165, 233);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------- CSS Footer --------------------- */
+footer{
+    height: 1200px;
+    width: 100%;
+    border: 1px solid whitesmoke;
+    background-color: grey;
+}
